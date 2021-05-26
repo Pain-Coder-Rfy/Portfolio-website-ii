@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+}
+section{
+    padding-bottom: 150px;
+    height: 500px;
+
+}
+/* ------------------fonts------------ */
+.robot-font{font-family: 'Roboto', sans-serif;}
+.pattaya-font
+{
+    font-family: 'Pattaya', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/* ----------------------fonts---------- */
+.top-section{
+    background: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+#left-top{
+    margin-top: 40px;
+}
+#middle-1{
+    margin-top: 62px;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    
+}
+h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+    color: rgb(231, 63, 119);
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+    margin-bottom: 50px;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background: rgb(231, 63, 119);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.biography{
+    background: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+
+}
+.card-design{
+    height: 80%;
+    float: left;
+    width: 25%;
+    padding-left: 5%;
+    margin-top: 80px;
+
+}
+.card-design img{
+    width: 100%;
+}
+.latest-work{
+    padding: 50px;
+    margin-top: 50px;
+    text-align: center;
+    background: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.review{
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+    background: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 566px;
+}
+.review h2{
+    margin-bottom: 60px;
+}
+.review p{
+    display: inline-block;
+    margin-left: 120px;
+    margin-right:120px;
+
+}
+.pink-box{
+    background:rgb(231, 63, 119) ;
+    padding: 30px 0px;
+    color: white !important;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 50px;
+}
+.pink-box p{
+    margin-bottom: 10px;
+    color: white;
+}
+footer{
+    margin-top: 150px;
+    text-align: center;
+}
